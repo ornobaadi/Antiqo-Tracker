@@ -1,0 +1,152 @@
+[
+    {
+        "artifactName": "Voynich Manuscript",
+        "artifactImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Voynich_Manuscript_%2832%29.jpg/446px-Voynich_Manuscript_%2832%29.jpg",
+        "artifactType": "Documents",
+        "historicalContext": "A medieval codex written in an unknown alphabet and script",
+        "createdAt": "1404-1438",
+        "discoveredAt": "1912",
+        "discoveredBy": "Wilfred Voynich",
+        "presentLocation": "Beinecke Rare Book & Manuscript Library, Yale University"
+    },
+    {
+        "artifactName": "Dead Sea Scrolls",
+        "artifactImage": "https://www.imj.org.il/sites/default/files/scroll.jpg",
+        "artifactType": "Writings",
+        "historicalContext": "A collection of Jewish religious manuscripts",
+        "createdAt": "3rd century BCE - 1st century CE",
+        "discoveredAt": "1947",
+        "discoveredBy": "Bedouin shepherds",
+        "presentLocation": "Israel Museum, Jerusalem"
+    },
+    {
+        "artifactName": "Lascaux Cave Paintings",
+        "artifactImage": "https://www.bradshawfoundation.com/lascaux/gallery/lascaux4b.jpg",
+        "artifactType": "Art",
+        "historicalContext": "Prehistoric cave paintings depicting animals and human figures",
+        "createdAt": "17,000 BCE",
+        "discoveredAt": "1940",
+        "discoveredBy": "Marcel Ravidat",
+        "presentLocation": "Lascaux Caves, France"
+    },
+    {
+        "artifactName": "Great Sphinx of Giza",
+        "artifactImage": "https://cdn.britannica.com/57/122157-050-21261E20/Side-view-Sphinx-Great-Pyramid-of-Khufu.jpg",
+        "artifactType": "Monument",
+        "historicalContext": "A massive limestone statue with the body of a lion and the head of a human",
+        "createdAt": "2558-2532 BCE",
+        "discoveredAt": "Unknown",
+        "discoveredBy": "Unknown",
+        "presentLocation": "Giza Necropolis, Egypt"
+    },
+    {
+        "artifactName": "Terracotta Army",
+        "artifactImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/51714-Terracota-Army.jpg/1280px-51714-Terracota-Army.jpg",
+        "artifactType": "Sculptures",
+        "historicalContext": "A collection of life-sized terracotta sculptures depicting the armies of Qin Shi Huang",
+        "createdAt": "246-208 BCE",
+        "discoveredAt": "1974",
+        "discoveredBy": "Farmers",
+        "presentLocation": "Terracotta Army Museum, Xi'an, China"
+    },
+    {
+        "artifactName": "Stonehenge",
+        "artifactImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/1280px-Stonehenge2007_07_30.jpg",
+        "artifactType": "Monument",
+        "historicalContext": "A prehistoric monument consisting of a ring of standing stones",
+        "createdAt": "3000-2000 BCE",
+        "discoveredAt": "Unknown",
+        "discoveredBy": "Unknown",
+        "presentLocation": "Wiltshire, England"
+    },
+    {
+        "artifactName": "Olmec Colossal Heads",
+        "artifactImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/San_Lorenzo_Monument_4_crop.jpg/800px-San_Lorenzo_Monument_4_crop.jpg",
+        "artifactType": "Sculptures",
+        "historicalContext": "Massive basalt heads depicting rulers of the Olmec civilization",
+        "createdAt": "1200-900 BCE",
+        "discoveredAt": "1925-1938",
+        "discoveredBy": "Matthew Stirling",
+        "presentLocation": "Museo Nacional de Antropología, Mexico City"
+    },
+    {
+        "artifactName": "Nabta Playa Megaliths",
+        "artifactImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Calendar_aswan.JPG/1280px-Calendar_aswan.JPG",
+        "artifactType": "Monument",
+        "historicalContext": "A prehistoric complex of megalithic structures in the Sahara Desert",
+        "createdAt": "7500-6100 BCE",
+        "discoveredAt": "1974",
+        "discoveredBy": "Fred Wendorf",
+        "presentLocation": "Nabta Playa, Egypt"
+    },
+    {
+        "artifactName": "Göbekli Tepe",
+        "artifactImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/G%C3%B6bekli_Tepe%2C_Urfa.jpg/1280px-G%C3%B6bekli_Tepe%2C_Urfa.jpg",
+        "artifactType": "Monument",
+        "historicalContext": "A large Neolithic site containing massive T-shaped stone pillars",
+        "createdAt": "9600-8200 BCE",
+        "discoveredAt": "1963",
+        "discoveredBy": "German archaeologists",
+        "presentLocation": "Göbekli Tepe, Turkey"
+    },
+    {
+        "artifactName": "Iceman Ötzi",
+        "artifactImage": "https://th-thumbnailer.cdn-si-edu.com/L_D6HyPa-OIvKLVv-wxvvdF5JR4=/1000x750/filters:no_upscale():focal(800x602:801x603)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/de/52/de526958-55af-4faf-8b79-5b58b958e09a/iceman_web.jpg",
+        "artifactType": "Human Remains",
+        "historicalContext": "A well-preserved natural mummy of a Neolithic man",
+        "createdAt": "3350 BCE",
+        "discoveredAt": "1991",
+        "discoveredBy": "Hikers",
+        "presentLocation": "South Tyrol Museum of Archaeology, Italy"
+    },
+    {
+        "artifactName": "Baghdad Battery",
+        "artifactImage": "https://www.smith.edu/hsc/museum/ancient_inventions/battery1a.JPG",
+        "artifactType": "Technology",
+        "historicalContext": "A group of artifacts that may have been used as early electric batteries",
+        "createdAt": "250 BCE",
+        "discoveredAt": "1936",
+        "discoveredBy": "Wilhelm König",
+        "presentLocation": "National Museum of Iraq, Baghdad"
+    },
+    {
+        "artifactName": "Aeneas Mosaic",
+        "artifactImage": "https://upload.wikimedia.org/wikipedia/commons/5/54/Low_ham_mosaic.jpg",
+        "artifactType": "Art",
+        "historicalContext": "A Roman floor mosaic depicting the Trojan War",
+        "createdAt": "2nd century CE",
+        "discoveredAt": "1831",
+        "discoveredBy": "Charles Cockerell",
+        "presentLocation": "British Museum, London"
+    },
+    {
+        "artifactName": "Lycurgus Cup",
+        "artifactImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Front_of_4th_century_CE_Roman_Lycurgus_Cup%2C_British_Museum_%281958%2C1202.1%29.jpg/447px-Front_of_4th_century_CE_Roman_Lycurgus_Cup%2C_British_Museum_%281958%2C1202.1%29.jpg",
+        "artifactType": "Art",
+        "historicalContext": "A Roman glass cup that changes color depending on the light",
+        "createdAt": "4th century CE",
+        "discoveredAt": "1521",
+        "discoveredBy": "Unknown",
+        "presentLocation": "British Museum, London"
+    },
+    {
+        "artifactName": "Sutton Hoo Ship Burial",
+        "artifactImage": "https://www.britishmuseum.org/sites/default/files/styles/uncropped_medium/public/2019-10/View%20of%20the%20excavation%20of%20the%20ship-burial%20at%20Sutton%20Hoo%2C%201000x500.jpg?itok=RSFvS5s3",
+        "artifactType": "Burial Site",
+        "historicalContext": "An Anglo-Saxon ship burial containing a wealth of artifacts",
+        "createdAt": "625-626 CE",
+        "discoveredAt": "1939",
+        "discoveredBy": "Edith Pretty",
+        "presentLocation": "British Museum, London"
+    },
+    {
+        "artifactName": "Antikythera Mechanism",
+        "artifactImage": "https://cdn.britannica.com/55/198155-004-9453E1CC/Parts-mechanism-trading-ship-Antikythera-device-wreck-1901.jpg?s=1500x700&q=85",
+        "artifactType": "Technology",
+        "historicalContext": "An ancient Greek astronomical calculator",
+        "createdAt": "150-100 BCE",
+        "discoveredAt": "1900",
+        "discoveredBy": "Sponge divers",
+        "presentLocation": "National Archaeological Museum, Athens"
+    }
+]
